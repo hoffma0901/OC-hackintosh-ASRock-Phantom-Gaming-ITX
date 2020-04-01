@@ -755,9 +755,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CP2Y8JV3Q</string>
+			<string>0</string>
 			<key>SystemUUID</key>
-			<string>05C3827E-09C7-4419-88C1-D776955E7759</string>
+			<string>0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
